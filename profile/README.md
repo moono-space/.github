@@ -1,4 +1,4 @@
-**moono.space**
+**moono**
 
 _"The house for better software"_
 
