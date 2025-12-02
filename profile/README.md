@@ -1,15 +1,18 @@
 **moono**
 
-_"The house for better software"_
+_"The collections of stunning products and saas"_
 
-We're small team and creative studio try to create simple software and help some people to get the better experience with the software.
+Indie hacker try to create simple software, products, and goodies to help some people to get the better experience.
 
-- Create simple saas
+- Create simple saas, products, goodies
 - Used for free by supporting us
 - Everything is simple
+- Open sources
 
+Our products including:
+- Saas
+- Micrco saas
+- Apps
+- Tools
 
-<br/>
-<br/>
-
-[<kbd> <br> See Products <br> </kbd>](https://moono.space)
+For more detail, you can find and explore our products at [moono.site](https://moono.site)
